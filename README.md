@@ -33,6 +33,7 @@ test_string="python program in linear algebra"
 print("The original string is : ",test_string)
 result= len(test_string.split())
 print("The number of words in string are : ",str(result))
+```
 
 ### OUTPUT:
 
